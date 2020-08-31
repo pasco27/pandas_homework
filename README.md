@@ -1,6 +1,6 @@
 # pandas_homework
 
-# I inluded several notebooks because this was a tough week for me.  I did not get to work on solely one machine - there was much time in the office;
+# I included several notebooks because this was a tough week for me.  I did not get to work on solely one machine - there was much time in the office;
 # Especially this past weekend Aug 28-30 due to emergent planning for Lake Charles damange restoration.  
 # I transfered notebooks back and forth so that I could tinker on the homework over breaks.
 # My FINAL file is HerosOfPimoli_starter2 (1) FINAL
